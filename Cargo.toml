@@ -1,0 +1,11 @@
+[package]
+name = "supertrace"
+version = "0.1.0"
+authors = ["Vincent Kobel <kobel@metaco.com>"]
+edition = "2018"
+
+[dependencies]
+nix = "0.13.0"
+libc = "0.2.51"
+byteorder = "1.3.1"
+bitflags = "1.0.4"
